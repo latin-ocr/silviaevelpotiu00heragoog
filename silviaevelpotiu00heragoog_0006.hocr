@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./silviaevelpotiu00heragoog_0006.png"; bbox 0 0 2884 4738; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 316 2035 1295 2160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 316 2035 1295 2160">
+     <span class='ocr_line' id='line_1_1' title="bbox 316 2035 1295 2098; baseline 0 -10"><span class='ocrx_word' id='word_1_1' title='bbox 316 2046 371 2088; x_wconf 76' lang='lat' dir='ltr'>Alle</span> <span class='ocrx_word' id='word_1_2' title='bbox 384 2046 482 2096; x_wconf 51' lang='lat' dir='ltr'>Rechtffi</span> <span class='ocrx_word' id='word_1_3' title='bbox 504 2045 633 2088; x_wconf 76' lang='lat' dir='ltr'>benonders</span> <span class='ocrx_word' id='word_1_4' title='bbox 646 2044 689 2087; x_wconf 70' lang='lat' dir='ltr'>das</span> <span class='ocrx_word' id='word_1_5' title='bbox 703 2044 778 2088; x_wconf 73' lang='lat' dir='ltr'>Reeht</span> <span class='ocrx_word' id='word_1_6' title='bbox 791 2044 834 2087; x_wconf 81' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_7' title='bbox 846 2035 1009 2096; x_wconf 73' lang='lat' dir='ltr'>Ubersetzung</span> <span class='ocrx_word' id='word_1_8' title='bbox 1021 2045 1048 2086; x_wconf 81' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_9' title='bbox 1062 2044 1154 2088; x_wconf 75' lang='lat' dir='ltr'>fremdo</span> <span class='ocrx_word' id='word_1_10' title='bbox 1166 2045 1295 2098; x_wconf 71' lang='lat' dir='ltr'>Sprwhen,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 668 2115 943 2160; baseline -0.007 0"><span class='ocrx_word' id='word_1_11' title='bbox 668 2117 761 2160; x_wconf 73' lang='lat' dir='ltr'>werden</span> <span class='ocrx_word' id='word_1_12' title='bbox 776 2115 943 2160; x_wconf 69' lang='lat' dir='ltr'>vorbehalten.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 748 2239 883 2340">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 748 2239 883 2340">
+     <span class='ocr_line' id='line_1_3' title="bbox 748 2239 883 2340; baseline 0.015 -2"><span class='ocrx_word' id='word_1_13' title='bbox 748 2239 883 2340; x_wconf 57' lang='lat'>875</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 746 2375 929 2600">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 746 2375 929 2600">
+     <span class='ocr_line' id='line_1_4' title="bbox 746 2375 929 2487; baseline 0.016 -32"><span class='ocrx_word' id='word_1_14' title='bbox 746 2375 817 2455; x_wconf 72' lang='grc' dir='ltr'>Ῥκ</span> <span class='ocrx_word' id='word_1_15' title='bbox 838 2385 929 2487; x_wconf 61' lang='lat'>55.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 746 2510 880 2600; baseline 0.03 -4"><span class='ocrx_word' id='word_1_16' title='bbox 746 2510 880 2600; x_wconf 59' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1446 4738">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1446 4738">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1446 4738; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1446 4738; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
